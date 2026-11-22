@@ -4,7 +4,7 @@
 
 As a backend engineering leader, I build reliable backend systems, event-driven infrastructure, and production
 platforms, and lead the engineers who run them. Language is no longer the limit: I pick up any stack quickly with AI
-coding agents, and own the design, review, and tests. I also write about backend engineering, quality, and production
+agents, and own the design, review, and tests. I also write about backend engineering, quality, and production
 ownership.
 
 ### Open source
