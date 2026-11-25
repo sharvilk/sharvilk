@@ -13,6 +13,10 @@ ownership.
   [GitHub](https://github.com/cloudbitmaps/cloudbitmaps) · [npm](https://www.npmjs.com/package/@cloudbitmaps/core)
 - agents: Claude Code skills for running AI agents on long work: pre-build review, checkpoints, work loops and to-do
   recovery. [GitHub](https://github.com/sharvilk/agents)
+- babystack: real MySQL, fresh every run, for tests and local AI agents.
+  [GitHub](https://github.com/babystack/babystack) · [npm](https://www.npmjs.com/package/babystack)
+- onadiet: shrinks PDFs and images under a size limit, locally.
+  [GitHub](https://github.com/on-a-diet/onadiet) · [npm](https://www.npmjs.com/package/onadiet)
 - aws-chameleon: server-side A/B/n testing, built at work. [npm](https://www.npmjs.com/package/aws-chameleon)
 - node-phone: normalizes international phone numbers, built at work. [npm](https://www.npmjs.com/package/node-phone)
 
