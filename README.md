@@ -11,6 +11,8 @@ ownership.
 
 - CloudBitmaps: an open-source library for compressed bitmaps on object storage (S3, GCS, Azure).
   [GitHub](https://github.com/cloudbitmaps/cloudbitmaps) · [npm](https://www.npmjs.com/package/@cloudbitmaps/core)
+- agents: Claude Code skills for running AI agents on long work: pre-build review, checkpoints, work loops and to-do
+  recovery. [GitHub](https://github.com/sharvilk/agents)
 - aws-chameleon: server-side A/B/n testing, built at work. [npm](https://www.npmjs.com/package/aws-chameleon)
 - node-phone: normalizes international phone numbers, built at work. [npm](https://www.npmjs.com/package/node-phone)
 
